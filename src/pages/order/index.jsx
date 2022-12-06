@@ -100,7 +100,7 @@ function Index() {
          )
       );
    };
-   const seatNumber = ["A1", "A2", "A3"];
+   
    return (
       <>
          <Navbar />
@@ -485,7 +485,7 @@ function Index() {
                         <section className={styles.content_bottom}>
                            <p className={styles.label_order}>Seat choosed</p>
                            <p className={styles.label_order_right}>
-                              {seatNumber[seat]}
+                              {`${seat} `}
                            </p>
                         </section>
                      </section>
