@@ -24,7 +24,6 @@
 - [Usage](#usage-for-development)
 - [Screenshots](#screenshots)
 - [Deployment](#Deployment)
-- [Related] (#Related)
 - [Contributors](#contributors)
 
 ## Introduction
