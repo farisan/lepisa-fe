@@ -63,6 +63,19 @@
     <img width="250" src="./src/assets/readme/88.jpeg">
 </div>
 
+
+        
+
+## Deployment
+
+Website : [Click Here](https://lepisa-fe.vercel.app/)
+        
+## Related Project
+
+- E-Wallet Fazzpay (NextJs) [`here`](https://e-wallet-fazzpay.vercel.app)
+- Backend Tickitz [`here`](https://github.com/rivalalfalah/lepisa-fix-be)
+        
+        
 ## Contributors
 
 <center>
@@ -100,13 +113,3 @@
         </td>
   </table>
 </center>
-        
-
-## Deployment
-
-Website : [Click Here](https://lepisa-fe.vercel.app/)
-        
-## Related Project
-
-- E-Wallet Fazzpay (NextJs) [`here`](https://e-wallet-fazzpay.vercel.app)
-- Backend Tickitz [`here`](https://github.com/rivalalfalah/lepisa-fix-be)
