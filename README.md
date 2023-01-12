@@ -23,6 +23,8 @@
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
 - [Screenshots](#screenshots)
+- [Deployment](#Deployment)
+- [Related Project] (#Related Project)
 - [Contributors](#contributors)
 
 ## Introduction
