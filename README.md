@@ -73,7 +73,6 @@ Website : [Click Here](https://lepisa-fe.vercel.app/)
         
 ## Related Project
 
-- E-Wallet Fazzpay (NextJs) [`here`](https://ewallet-fazzpay.vercel.app/)
 - Backend Tickitz [`here`](https://github.com/rivalalfalah/lepisa-fix-be)
         
         
