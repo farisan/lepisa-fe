@@ -53,7 +53,7 @@
 
 ## Screenshots
 
-<div align="center" style="display:flex; gap:5px">
+<div align="center" style="display:flex; gap:10px">
     <img width="250" src="./src/assets/readme/11.jpeg">
     <img width="250" src="./src/assets/readme/22.jpeg">
     <img width="250" src="./src/assets/readme/33.jpeg">
